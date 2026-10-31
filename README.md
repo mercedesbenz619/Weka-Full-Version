@@ -241,4 +241,4 @@ This repository serves as the official landing page for Weka. The software is di
 **Get the most recent version of Weka today!**
 
 ---
-**Last updated:** 2026-10-31 13:58:11 UTC
+**Last updated:** 2026-10-31 18:08:30 UTC
